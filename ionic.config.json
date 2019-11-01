@@ -1,5 +1,7 @@
 {
   "name": "loyalityPoints",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
